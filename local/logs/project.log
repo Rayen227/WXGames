@@ -1,0 +1,760 @@
+2021-02-18T03:25:17.133Z - normal: Load ~/.CocosCreator/settings.json
+2021-02-18T03:25:17.232Z - normal: Initializing Asset Database
+2021-02-18T03:25:17.236Z - normal: checking language setting...
+2021-02-18T03:25:17.236Z - normal: Language: zh
+2021-02-18T03:25:18.739Z - success: preview server running at http://localhost:7456
+2021-02-18T03:25:18.744Z - success: protocol editor-framework registered
+2021-02-18T03:25:18.745Z - success: protocol app registered
+2021-02-18T03:25:18.745Z - success: protocol theme registered
+2021-02-18T03:25:18.746Z - success: protocol packages registered
+2021-02-18T03:25:18.746Z - success: protocol uuid registerred
+2021-02-18T03:25:18.747Z - success: protocol db registerred
+2021-02-18T03:25:18.747Z - success: protocol thumbnail registerred
+2021-02-18T03:25:18.747Z - success: protocol unpack registerred
+2021-02-18T03:25:18.748Z - success: protocol disable-commonjs registerred
+2021-02-18T03:25:21.737Z - normal: failed to connect login server due to request timeout
+2021-02-18T03:25:21.738Z - normal: Check project D:\GitBase\WXGames
+2021-02-18T03:25:21.745Z - normal: Initializing project D:\GitBase\WXGames
+2021-02-18T03:25:21.784Z - success: adapters loaded
+2021-02-18T03:25:21.787Z - success: asset-db-debugger loaded
+2021-02-18T03:25:21.888Z - success: fb-audience-network loaded
+2021-02-18T03:25:21.929Z - success: fb-live-stream loaded
+2021-02-18T03:25:21.932Z - success: google-play-instant loaded
+2021-02-18T03:25:21.932Z - success: huawei-adapter loaded
+2021-02-18T03:25:21.933Z - success: jkw-adapter loaded
+2021-02-18T03:25:21.933Z - success: jsb-adapter loaded
+2021-02-18T03:25:21.934Z - success: oppo-adapter loaded
+2021-02-18T03:25:21.937Z - success: package-manager loaded
+2021-02-18T03:25:21.938Z - success: qtt-adapter loaded
+2021-02-18T03:25:21.946Z - success: runtime-dev-tools loaded
+2021-02-18T03:25:21.951Z - success: sdkbox loaded
+2021-02-18T03:25:21.953Z - success: ui-kit-preview-extra loaded
+2021-02-18T03:25:21.954Z - success: ui-kit-preview loaded
+2021-02-18T03:25:21.955Z - success: vivo-adapter loaded
+2021-02-18T03:25:22.029Z - success: alipay-minigame loaded
+2021-02-18T03:25:22.091Z - success: assets loaded
+2021-02-18T03:25:22.094Z - success: baidugame-opendata loaded
+2021-02-18T03:25:22.095Z - success: baidugame loaded
+2021-02-18T03:25:22.097Z - success: builder loaded
+2021-02-18T03:25:22.288Z - success: cocos-services loaded
+2021-02-18T03:25:22.293Z - success: console loaded
+2021-02-18T03:25:22.294Z - success: curve-editor loaded
+2021-02-18T03:25:22.305Z - success: fb-instant-games loaded
+2021-02-18T03:25:22.310Z - success: game-window loaded
+2021-02-18T03:25:22.312Z - success: google-instant-games loaded
+2021-02-18T03:25:22.314Z - success: hierarchy loaded
+2021-02-18T03:25:22.318Z - success: huawei-runtime loaded
+2021-02-18T03:25:22.319Z - success: inspector loaded
+2021-02-18T03:25:22.412Z - success: cpk-publish loaded
+2021-02-18T03:25:22.413Z - success: keystore loaded
+2021-02-18T03:25:22.417Z - success: node-library loaded
+2021-02-18T03:25:22.418Z - success: open-recent-items loaded
+2021-02-18T03:25:22.421Z - success: oppo-runtime loaded
+2021-02-18T03:25:22.427Z - success: package-asset loaded
+2021-02-18T03:25:22.428Z - success: preferences loaded
+2021-02-18T03:25:22.430Z - success: project-importer loaded
+2021-02-18T03:25:22.431Z - success: project-settings loaded
+2021-02-18T03:25:22.450Z - success: qtt-runtime loaded
+2021-02-18T03:25:22.453Z - success: scene loaded
+2021-02-18T03:25:22.453Z - success: simulator-debugger loaded
+2021-02-18T03:25:22.454Z - success: sprite-editor loaded
+2021-02-18T03:25:22.456Z - success: store loaded
+2021-02-18T03:25:22.461Z - success: timeline loaded
+2021-02-18T03:25:22.464Z - success: vivo-runtime loaded
+2021-02-18T03:25:22.467Z - success: wechatgame-opendata loaded
+2021-02-18T03:25:22.471Z - success: wechatgame loaded
+2021-02-18T03:25:22.479Z - success: xiaomi-runtime loaded
+2021-02-18T03:25:24.294Z - normal: Initializing Cocos2d
+2021-02-18T03:25:24.917Z - normal: Initializing engine extends
+2021-02-18T03:25:26.204Z - normal: Loading packages
+2021-02-18T03:25:26.211Z - normal: Watching packages
+2021-02-18T03:25:27.025Z - normal: Run Application
+2021-02-18T03:25:32.484Z - failed: load script [./assets/Script/Jump] failed : TypeError: Cannot read property 'getComponent' of undefined
+    at __define (D:\GitBase\WXGames\temp\quick-scripts\dst\assets\Script\Jump.js:42:20)
+    at D:\GitBase\WXGames\temp\quick-scripts\dst\assets\Script\Jump.js:58:25
+    at Object.<anonymous> (D:\GitBase\WXGames\temp\quick-scripts\dst\assets\Script\Jump.js:65:19)
+    at Object.<anonymous> (D:\GitBase\WXGames\temp\quick-scripts\dst\assets\Script\Jump.js:67:3)
+    at Module._compile (internal/modules/cjs/loader.js:839:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:851:10)
+    at Module.load (internal/modules/cjs/loader.js:701:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:633:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:625:3)
+    at Module.require (internal/modules/cjs/loader.js:739:19)
+2021-02-18T03:25:32.487Z - failed: load script [D:\GitBase\WXGames\temp\quick-scripts\dst\assets\Script\Jump.js] failed : TypeError: Cannot read property 'getComponent' of undefined
+    at __define (D:\GitBase\WXGames\temp\quick-scripts\dst\assets\Script\Jump.js:42:20)
+    at D:\GitBase\WXGames\temp\quick-scripts\dst\assets\Script\Jump.js:58:25
+    at Object.<anonymous> (D:\GitBase\WXGames\temp\quick-scripts\dst\assets\Script\Jump.js:65:19)
+    at Object.<anonymous> (D:\GitBase\WXGames\temp\quick-scripts\dst\assets\Script\Jump.js:67:3)
+    at Module._compile (internal/modules/cjs/loader.js:839:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:851:10)
+    at Module.load (internal/modules/cjs/loader.js:701:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:633:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:625:3)
+    at Module.require (internal/modules/cjs/loader.js:739:19)
+2021-02-18T03:25:32.534Z - warn: Script attached to "jump" in scene "test.fire" is missing or invalid. Detailed information:
+Node path: "BaseView/jump"
+Asset url: "db://assets/Scene/test.fire"
+Script UUID: "58748d9d-a204-451b-b615-8e73b6d83f75"
+Class ID: "587482dogRFG7YVjnO22D91"
+
+2021-02-18T03:25:49.110Z - info: Cocos Service load base data!
+2021-02-18T03:26:13.787Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2021-02-18T03:26:13.788Z - normal: Simulator: WORKAREA WIDTH 1432.00, HEIGHT 869.00
+2021-02-18T03:26:13.789Z - normal: Simulator: FRAME SCALE = 0.50
+2021-02-18T03:26:13.952Z - normal: Simulator: Ready for GLSL
+2021-02-18T03:26:13.952Z - normal: Simulator: Ready for OpenGL 2.0
+2021-02-18T03:26:13.953Z - normal: Simulator: Project Config:
+2021-02-18T03:26:13.954Z - normal: Simulator:     project dir: D:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2021-02-18T03:26:13.956Z - normal: Simulator:     writable path: $(PROJDIR)\
+2021-02-18T03:26:13.957Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2021-02-18T03:26:13.957Z - normal: Simulator:     frame size: 750 x 1334
+2021-02-18T03:26:13.958Z - normal: Simulator:     frame scale: 0.50
+2021-02-18T03:26:13.959Z - normal: Simulator:     show console: NO
+2021-02-18T03:26:13.959Z - normal: Simulator:     write debug log: NO ()
+2021-02-18T03:26:13.959Z - normal: Simulator:     listen: 
+2021-02-18T03:26:13.959Z - normal: Simulator:     debugger: none
+2021-02-18T03:26:13.960Z - normal: Simulator:     add searching path:
+2021-02-18T03:26:13.960Z - normal: Simulator: 
+2021-02-18T03:26:13.960Z - normal: Simulator: 
+2021-02-18T03:26:13.960Z - normal: Simulator: 
+2021-02-18T03:26:13.961Z - normal: Simulator: resetDesignResolution request
+2021-02-18T03:26:13.961Z - normal: Simulator: ------------------------------------------------
+2021-02-18T03:26:13.962Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2021-02-18T03:26:13.962Z - normal: Simulator: ------------------------------------------------
+2021-02-18T03:26:13.962Z - normal: Simulator: D/jswrapper (367): Initializing V8, version: 7.5.288.22
+2021-02-18T03:26:15.399Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2021-02-18T03:26:15.419Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2021-02-18T03:26:15.419Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2021-02-18T03:26:15.476Z - normal: Simulator: D/jswrapper (130): JS: Enable batch GL commands optimization!
+2021-02-18T03:26:15.481Z - normal: Simulator: resetDesignResolution request
+2021-02-18T03:26:15.481Z - normal: Simulator: ------------------------------------------------
+2021-02-18T03:26:15.481Z - normal: Simulator: LOAD Js FILE: main.js
+2021-02-18T03:26:15.481Z - normal: Simulator: ------------------------------------------------
+2021-02-18T03:26:15.957Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of undefined, location: dst/assets/Script/Jump.js:0:0
+STACK:
+[0]__define@dst/assets/Script/Jump.js:42
+[1]anonymous@dst/assets/Script/Jump.js:62
+[2]require@dst/__quick_compile__.js:138
+[3]__require@dst/__qc_index__.js:9
+[4]__define@dst/__qc_index__.js:13
+[5]anonymous@dst/__qc_index__.js:21
+[6]anonymous@dst/__quick_compile__.js:154
+[7]run@dst/__quick_compile__.js:150
+[8]anonymous@dst/__quick_compile__.js:174
+[9]anonymous@dst/__quick_compile__.js:57
+[10]loadScript@dst/__quick_compile__.js:19
+[11]anonymous@dst/__quick_compile__.js:54
+[12]loadScripts@dst/__quick_compile__.js:53
+[13]load@dst/__quick_compile__.js:173
+[14]_loadPreviewScript@src/cocos2d-jsb.js:17675
+[15]prepare@src/cocos2d-jsb.js:17709
+[16]run@src/cocos2d-jsb.js:17716
+[17]boot@main.js:78
+[18]anonymous@main.js:88
+[19]anonymous@main.js:90
+E/jswrapper (682): ScriptEngine::evalString script main.js, failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:15.958Z - normal: Simulator: iShow!
+2021-02-18T03:26:18.723Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:18.744Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:18.748Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:18.757Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:18.770Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:18.792Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:18.819Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:18.826Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:18.849Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:18.858Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:18.880Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:18.885Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:18.895Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:18.909Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:18.926Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:18.940Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:18.949Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:18.959Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:18.982Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.002Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.010Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.026Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.044Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.059Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.081Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.087Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.094Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.112Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.127Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.150Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.158Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.184Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.195Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.213Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.228Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.249Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.259Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.283Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.289Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.313Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.326Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.344Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.359Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.382Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.390Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.412Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.427Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.446Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.461Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.546Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:19.554Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:23.314Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:24.884Z - error: Simulator: E/jswrapper (272): ERROR: Uncaught TypeError: Cannot set property 'width' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]setCanvasSize@src/cocos2d-jsb.js:42927
+[1]jsb.onResize@jsb-adapter/jsb-engine.js:2770
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:24.884Z - error: Simulator: E/jswrapper (562): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 562): Invoking function (0C4D19C0) failed!
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1608)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2021-02-18T03:26:26.041Z - normal: Simulator: D/jswrapper (455): ScriptEngine::cleanup begin ...
+2021-02-18T03:26:26.043Z - normal: Simulator: D/jswrapper (594): GC begin ..., (js->native map) size: 13, all objects: 191
+2021-02-18T03:26:26.066Z - normal: Simulator: D/jswrapper (602): GC end ..., (js->native map) size: 12, all objects: 190
+2021-02-18T03:26:26.066Z - normal: Simulator: D/jswrapper (594): GC begin ..., (js->native map) size: 12, all objects: 190
+2021-02-18T03:26:26.086Z - normal: Simulator: D/jswrapper (602): GC end ..., (js->native map) size: 12, all objects: 190
+2021-02-18T03:26:26.086Z - normal: Simulator: D/jswrapper (594): GC begin ..., (js->native map) size: 0, all objects: 0
+2021-02-18T03:26:26.118Z - normal: Simulator: D/jswrapper (602): GC end ..., (js->native map) size: 0, all objects: 0
+2021-02-18T03:26:26.124Z - normal: Simulator: D/jswrapper (516): ScriptEngine::cleanup end ...
+2021-02-18T03:26:28.316Z - info: shutdown preview server
